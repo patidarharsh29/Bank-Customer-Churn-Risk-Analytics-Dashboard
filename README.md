@@ -4,7 +4,7 @@ A full end-to-end data project that predicts which bank customers are likely to 
 
 ---
 
-## Short Description
+## Description
 
 This project pulls raw customer and account data from a PostgreSQL database, cleans it with Python, runs it through multiple ML models to generate churn probability scores, and pushes the final predictions back to the database for Power BI to consume. The goal was to go beyond basic churn prediction and actually tell a business *who* to focus on and *why*.
 
@@ -150,6 +150,11 @@ customer-churn-analytics/
 ├── Customer_Churn___Risk_Analytics_Dashboard.pbix  # Power BI dashboard
 └── README.md
 ```
+
+## Demo
+https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png
+https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png
+https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png
 
 ---
 
