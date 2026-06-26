@@ -152,9 +152,9 @@ customer-churn-analytics/
 ```
 
 ## Demo
-https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png
-https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png
-https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png
+![Dashboard 1].(https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png).
+![Dashboard 2].(https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%202.png).
+![Dashboard 3].(https://github.com/patidarharsh29/Bank-Customer-Churn-Risk-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard%201.png).
 
 ---
 
